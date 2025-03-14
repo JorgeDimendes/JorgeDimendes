@@ -21,7 +21,7 @@ Crio aplicativos modernos, performáticos e intuitivos, sempre priorizando a mel
 - **Git** | **GitHub**  
 
 
-## 🤖 Tecnologias  
+## 🤖 Stack & Ecossistema  
 
 <p align="left">
     <img alt="Kotlin" title="Kotlin" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg"/>
