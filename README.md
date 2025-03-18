@@ -40,9 +40,12 @@ Crio aplicativos modernos, performáticos e intuitivos, sempre priorizando a mel
 </div>
 
 
-<a href='https://github.com/JorgeDimendes/github-stats-transparent'>
-  
-![Stats Overview](https://raw.githubusercontent.com/JorgeDimendes/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/JorgeDimendes/github-stats-transparent/output/generated/languages.svg)
 
+![](https://raw.githubusercontent.com/JorgeDimendes/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/JorgeDimendes/github-stats/master/generated/overview.svg#gh-light-mode-only)
+
+
+<a href="https://github.com/JorgeDimendes/github-stats">
+<img src="https://github.com/JorgeDimendes/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://github.com/JorgeDimendes/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
 </a>
