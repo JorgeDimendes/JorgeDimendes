@@ -38,3 +38,11 @@ Crio aplicativos modernos, performáticos e intuitivos, sempre priorizando a mel
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JorgeDimendes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
+
+
+<a href='https://github.com/JorgeDimendes/github-stats-transparent'>
+  
+![Stats Overview](https://raw.githubusercontent.com/JorgeDimendes/github-stats-transparent/output/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/JorgeDimendes/github-stats-transparent/output/generated/languages.svg)
+
+</a>
