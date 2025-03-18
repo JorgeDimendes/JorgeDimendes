@@ -33,19 +33,16 @@ Crio aplicativos modernos, performáticos e intuitivos, sempre priorizando a mel
     <img alt="Git" title="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
 </p>
 
+<!-- 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=JorgeDimendes&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=en&hide_border=false&order=1&token=SEU_TOKEN_AQUI" height="150" alt="stats graph"  />
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JorgeDimendes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
+-->
 
 
-
-![](https://raw.githubusercontent.com/JorgeDimendes/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/JorgeDimendes/github-stats/master/generated/overview.svg#gh-light-mode-only)
-
-
-<a href="https://github.com/JorgeDimendes/github-stats">
-<img src="https://github.com/JorgeDimendes/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
-<img src="https://github.com/JorgeDimendes/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
-</a>
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=JorgeDimendes&show_icons=true&theme=dracula" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeDimendes&layout=compact&theme=dracula" height="150" alt="Top Langs" />
+</div>
