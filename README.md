@@ -43,6 +43,10 @@ Crio aplicativos modernos, performáticos e intuitivos, sempre priorizando a mel
 
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=JorgeDimendes&show_icons=true&theme=dracula" height="150" alt="GitHub Stats" />
+  <!--  <img src="https://github-readme-stats.vercel.app/api?username=JorgeDimendes&show_icons=true&theme=dracula" height="150" alt="GitHub Stats" /> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=JorgeDimendes&show_icons=true&theme=dracula&cache_seconds=1800" height="150" alt="GitHub Stats" />
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeDimendes&layout=compact&theme=dracula" height="150" alt="Top Langs" />
 </div>
+
+
