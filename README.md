@@ -10,7 +10,7 @@ Busco sempre criar sistemas performáticos, organizados e escaláveis, seguindo 
 ## 🔧 Tecnologias & Ferramentas
 
 - **C#** | **ASP.NET Core Web API** | **Entity Framework Core** | **Windows Forms**
-- **RESTful APIs** | **Autenticação com JWT** | **SQL Server** | **LINQ**
+- **RESTful APIs** | **Autenticação com JWT** | **SQL Server** | **MySql** | **PostgreSql** | **LINQ** 
 - **Camadas (MVC, Service, Repository)** | **Swagger** | **Postman**
 - **Git** | **GitHub** | **Visual Studio** | **Windows Forms Designer**
 
@@ -54,8 +54,8 @@ Sistema desktop simples usando Windows Forms e banco de dados local.
 
 ## 📫 Contato
 
-- Email: **jorge.seuemail@exemplo.com**
-- LinkedIn: [linkedin.com/in/seuperfil](https://linkedin.com/in/seuperfil)
+- Email: **jorgedimendes@hotmail.com**
+- LinkedIn: [linkedin.com/in/seuperfil](https://www.linkedin.com/in/jorgedimendes/)
 - GitHub: [github.com/JorgeDimendes](https://github.com/JorgeDimendes)
 
 ---
