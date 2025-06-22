@@ -55,7 +55,7 @@ Sistema desktop simples usando Windows Forms e banco de dados local.
 ## 📫 Contato
 
 - Email: **jorgedimendes@hotmail.com**
-- LinkedIn: [linkedin.com/in/seuperfil](https://www.linkedin.com/in/jorgedimendes/)
+- LinkedIn: [linkedin.com/in/JorgeDimendes](https://www.linkedin.com/in/jorgedimendes/)
 - GitHub: [github.com/JorgeDimendes](https://github.com/JorgeDimendes)
 
 ---
