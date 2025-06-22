@@ -1,39 +1,61 @@
 # 👨🏾‍💻 Jorge Menezes
 
-### **Desenvolvedor Android Kotlin**
+### **Desenvolvedor C# – ASP.NET Core & Windows Forms**
 
-Sou um Desenvolvedor Android especializado em **Jetpack Compose** e **Kotlin**.  
-Crio aplicativos modernos, performáticos e intuitivos, sempre priorizando a melhor experiência do usuário e as boas práticas de desenvolvimento.
+Sou um desenvolvedor C# com experiência em **Web APIs com ASP.NET Core** e **aplicações desktop com Windows Forms**.  
+Busco sempre criar sistemas performáticos, organizados e escaláveis, seguindo as boas práticas da engenharia de software.
 
-<p align="left">
-    <a href="https://github.com/JorgeDimendes?tab=repositories&sort=stargazers">
-        <img alt="Total de estrelas" src="https://img.shields.io/github/stars/JorgeDimendes?style=for-the-badge&label=Estrelas&logo=github"/>
-    </a>
-    <a href="https://github.com/JorgeDimendes?tab=followers">
-        <img alt="Seguidores" src="https://img.shields.io/github/followers/JorgeDimendes?style=for-the-badge&label=Seguidores&logo=github"/>
-    </a>
-</p>
+---
 
-## 🛠️ Tecnologias  
+## 🔧 Tecnologias & Ferramentas
 
-- **Kotlin** | **Jetpack Compose** | **Hilt** | **Room** | **MVVM** | **ViewModel**  
-- **DataStore** | **Retrofit** | **Ktor** | **Firebase** | **SQL** | **Git** | **GitHub**  
+- **C#** | **ASP.NET Core Web API** | **Entity Framework Core** | **Windows Forms**
+- **RESTful APIs** | **Autenticação com JWT** | **SQL Server** | **LINQ**
+- **Camadas (MVC, Service, Repository)** | **Swagger** | **Postman**
+- **Git** | **GitHub** | **Visual Studio** | **Windows Forms Designer**
 
-## 🤖 Stack & Ecossistema  
+---
 
-<p align="left">
-    <img alt="Kotlin" title="Kotlin" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg"/>
-    <img alt="Jetpack Compose" title="Jetpack Compose" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg"/>
-    <img alt="Android" title="Android" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg"/>
-    <img alt="Android Studio" title="Android Studio" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg"/>
-    <img alt="Ktor" title="Ktor" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ktor/ktor-original.svg"/>
-    <img alt="Firebase" title="Firebase" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original-wordmark.svg"/>
-    <img alt="Git" title="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
-</p>
+## 💻 Projetos em Destaque
+
+### 📦 WaifusListAnimes (API REST)
+API feita com ASP.NET Core para gerenciamento de listas de animes e waifus.
+
+- ✅ Criação de usuários com autenticação
+- ✅ CRUD de animes e personagens
+- ✅ Relacionamento entre entidades
+- ✅ Documentação com Swagger
+- ✅ Estrutura em camadas (Repository, Service, Controller)
+
+🔗 [Repositório](https://github.com/JorgeDimendes/WaifusListAnimes)
+
+---
+
+### 🖥️ Sistema de Cadastro (Windows Forms)
+Sistema desktop simples usando Windows Forms e banco de dados local.
+
+- ✅ Cadastro, edição e exclusão de usuários
+- ✅ Integração com SQL Server
+- ✅ Interface clássica e objetiva
+- ✅ Organização com camadas (UI, DAL, BLL)
+
+🔗 *[Em breve]*
+
+---
 
 ## 📊 Estatísticas GitHub
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=JorgeDimendes&show_icons=true&theme=dracula&cache_seconds=1800" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeDimendes&layout=compact&theme=dracula" height="150" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JorgeDimendes&show_icons=true&theme=dracula&cache_seconds=1800" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeDimendes&layout=compact&theme=dracula" height="150" />
 </div>
+
+---
+
+## 📫 Contato
+
+- Email: **jorge.seuemail@exemplo.com**
+- LinkedIn: [linkedin.com/in/seuperfil](https://linkedin.com/in/seuperfil)
+- GitHub: [github.com/JorgeDimendes](https://github.com/JorgeDimendes)
+
+---
