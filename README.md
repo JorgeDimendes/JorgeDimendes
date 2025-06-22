@@ -7,19 +7,17 @@ Crio aplicativos modernos, performáticos e intuitivos, sempre priorizando a mel
 
 <p align="left">
     <a href="https://github.com/JorgeDimendes?tab=repositories&sort=stargazers">
-        <img alt="Total de estrelas" src="https://custom-icon-badges.demolab.com/github/stars/JorgeDimendes?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"/>
+        <img alt="Total de estrelas" src="https://img.shields.io/github/stars/JorgeDimendes?style=for-the-badge&label=Estrelas&logo=github"/>
     </a>
     <a href="https://github.com/JorgeDimendes?tab=followers">
-        <img alt="Seguidores" src="https://custom-icon-badges.demolab.com/github/followers/JorgeDimendes?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"/>
+        <img alt="Seguidores" src="https://img.shields.io/github/followers/JorgeDimendes?style=for-the-badge&label=Seguidores&logo=github"/>
     </a>
 </p>
 
 ## 🛠️ Tecnologias  
 
 - **Kotlin** | **Jetpack Compose** | **Hilt** | **Room** | **MVVM** | **ViewModel**  
-- **DataStore** | **Publicação de apps** | **Retrofit** | **Ktor** | **SQL** | **Firebase**  
-- **Git** | **GitHub**  
-
+- **DataStore** | **Retrofit** | **Ktor** | **Firebase** | **SQL** | **Git** | **GitHub**  
 
 ## 🤖 Stack & Ecossistema  
 
@@ -33,20 +31,9 @@ Crio aplicativos modernos, performáticos e intuitivos, sempre priorizando a mel
     <img alt="Git" title="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
 </p>
 
-<!-- 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=JorgeDimendes&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=en&hide_border=false&order=1&token=SEU_TOKEN_AQUI" height="150" alt="stats graph"  />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JorgeDimendes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
--->
-
+## 📊 Estatísticas GitHub
 
 <div align="left">
-  <!--  <img src="https://github-readme-stats.vercel.app/api?username=JorgeDimendes&show_icons=true&theme=dracula" height="150" alt="GitHub Stats" /> -->
   <img src="https://github-readme-stats.vercel.app/api?username=JorgeDimendes&show_icons=true&theme=dracula&cache_seconds=1800" height="150" alt="GitHub Stats" />
-
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeDimendes&layout=compact&theme=dracula" height="150" alt="Top Langs" />
 </div>
-
-
