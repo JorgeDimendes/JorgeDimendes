@@ -2,17 +2,17 @@
 
 ### **Desenvolvedor C# – ASP.NET Core & Windows Forms**
 
-Sou um desenvolvedor C# com experiência em **Web APIs com ASP.NET Core** e **aplicações desktop com Windows Forms**.  
+Sou um desenvolvedor C# com experiência em **Web APIs com ASP.NET Core**.  
 Busco sempre criar sistemas performáticos, organizados e escaláveis, seguindo as boas práticas da engenharia de software.
 
 ---
 
 ## 🔧 Tecnologias & Ferramentas
 
-- **C#** | **ASP.NET Core Web API** | **Entity Framework Core** | **Windows Forms**
-- **RESTful APIs** | **Autenticação com JWT** | **SQL Server** | **MySql** | **PostgreSql** | **LINQ** 
+- **C#** | **ASP.NET Core Web API** | **Entity Framework Core**
+- **RESTful APIs** | **Autenticação com JWT** | **SQL Server** | **MySql** | **PostgreSql** | **SqLite** 
 - **Camadas (MVC, Service, Repository)** | **Swagger** | **Postman**
-- **Git** | **GitHub** | **Visual Studio** | **Windows Forms Designer**
+- **Git** | **GitHub** | **Visual Studio**
 
 ---
 
