@@ -16,33 +16,6 @@ Busco sempre criar sistemas performáticos, organizados e escaláveis, seguindo 
 
 ---
 
-## 💻 Projetos em Destaque
-
-### 📦 WaifusListAnimes (API REST)
-API feita com ASP.NET Core para gerenciamento de listas de animes e waifus.
-
-- ✅ Criação de usuários com autenticação
-- ✅ CRUD de animes e personagens
-- ✅ Relacionamento entre entidades
-- ✅ Documentação com Swagger
-- ✅ Estrutura em camadas (Repository, Service, Controller)
-
-🔗 [Repositório](https://github.com/JorgeDimendes/WaifusListAnimes)
-
----
-
-### 🖥️ Sistema de Cadastro (Windows Forms)
-Sistema desktop simples usando Windows Forms e banco de dados local.
-
-- ✅ Cadastro, edição e exclusão de usuários
-- ✅ Integração com SQL Server
-- ✅ Interface clássica e objetiva
-- ✅ Organização com camadas (UI, DAL, BLL)
-
-🔗 *[Em breve]*
-
----
-
 ## 📊 Estatísticas GitHub
 
 <div align="left">
