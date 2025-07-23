@@ -1,6 +1,6 @@
 # 👨🏾‍💻 Jorge Menezes
 
-### **Desenvolvedor C# – ASP.NET Core & Windows Forms**
+### **Desenvolvedor C# – ASP.NET Core**
 
 Sou um desenvolvedor C# com experiência em **Web APIs com ASP.NET Core**.  
 Busco sempre criar sistemas performáticos, organizados e escaláveis, seguindo as boas práticas da engenharia de software.
