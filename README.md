@@ -23,6 +23,11 @@ Busco sempre criar sistemas performáticos, organizados e escaláveis, seguindo 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeDimendes&layout=compact&theme=dracula" height="150" />
 </div>
 
+<a href="https://github.com/JorgeDimendes/github-stats">
+  <img src="https://github.com/JorgeDimendes/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+  <img src="https://github.com/JorgeDimendes/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+</a>
+
 ---
 
 ## 📫 Contato
