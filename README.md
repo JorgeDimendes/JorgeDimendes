@@ -7,14 +7,16 @@ Busco sempre criar sistemas performáticos, organizados e escaláveis, seguindo 
 
 ## 🔧 Tecnologias & Ferramentas
 
-- **C#** | **ASP.NET Core Web API** | **Entity Framework Core**
-- **RESTful APIs** | **Autenticação com JWT** | **SQL Server** | **MySql** | **PostgreSql** | **SqLite** 
-- **Camadas (Service, Repository)** | **Swagger** | **Postman**
-- **Git** | **GitHub** | **Visual Studio**
-
-## 📊 Estatísticas GitHub
-
-<p align="center"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=JorgeDimendes&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" /> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeDimendes&layout=compact&theme=tokyonight&langs_count=8" /> </p>
+- Linguagem: C#
+- Framework: ASP.NET Core Web API
+- Autenticação: ASP.NET Core Identity | JWT
+- Arquitetura: Services | Repository | DTOs
+- Mapeamento: AutoMapper
+- Banco de Dados: SQL Server | MySQL | PostgreSQL | SQLite
+- API & Testes: RESTful APIs | Postman | Scalar
+- Documentação: Scalar
+- Versionamento: Git | GitHub
+- IDE: Visual Studio
 
 ## 📫 Contato
 
