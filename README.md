@@ -21,5 +21,5 @@ Busco sempre criar sistemas performáticos, organizados e escaláveis, seguindo 
 ## 📫 Contato
 
 - 📧 **Email:** jorgedimendes@hotmail.com
-- 💼 **LinkedIn:** linkedin.com/in/JorgeDimendes
+- 💼 **LinkedIn:** [linkedin.com/in/JorgeDimendes](https://www.linkedin.com/in/jorgemenezess/)
 - 🐙 **GitHub:** github.com/JorgeDimendes
